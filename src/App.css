@@ -17,18 +17,19 @@
 }
 
 .services {
-  background-image: url('/images/img-2.jpg');
+  background-image: url('/imgs/services.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
   color: #fff;
+  text-shadow: 1px 2px #03254b91;
   font-size: 100px;
 }
 
 .products {
-  background-image: url('/images/img-1.jpg');
+  background-image: url('/imgs/products.jpg');
   background-position: center;
-  background-size: fill;
+  background-size: cover;
   background-repeat: no-repeat;
   color: #fff;
   font-size: 100px;
